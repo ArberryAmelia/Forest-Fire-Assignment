@@ -1,4 +1,4 @@
-Individual Assignment 3: Coding 
+## Individual Assignment 3: Coding 
 
 Forest Fire
 
